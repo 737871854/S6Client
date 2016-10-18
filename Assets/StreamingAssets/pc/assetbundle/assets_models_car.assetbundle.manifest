@@ -1,0 +1,88 @@
+ManifestFileVersion: 0
+CRC: 1330090148
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 37593c5e20314deeb6ab1e9c10f521a2
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 783b3e9e88a6c508ce3769dfbce1fbd0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/car/car04.fbm/car_04a.png
+- Assets/Models/car/Materials/07 - Default.mat
+- Assets/Models/car/car06.fbm/car_06.png
+- Assets/Models/car/car02.fbm/car_02.png
+- Assets/Models/car/scene.fbm/UV03.png
+- Assets/Models/car/Materials/car_03.mat
+- Assets/Models/car/Animation.anim
+- Assets/Models/car/Materials/UV06.mat
+- Assets/Models/car/car01.FBX
+- Assets/Models/car/Materials/UV02.mat
+- Assets/Models/car/Materials/UV03.mat
+- Assets/Models/car/car_idle.FBX
+- Assets/Models/car/Materials/car_01.mat
+- Assets/Models/car/car05.fbm/car_05a.png
+- Assets/Models/car/car04.FBX
+- Assets/Models/car/scene.fbm/UV05.tga
+- Assets/Models/car/TestCamera.controller
+- Assets/Models/car/scene.fbm/UV02.tga
+- Assets/Models/car/car03.FBX
+- Assets/Models/car/car_run.FBX
+- Assets/Models/car/car_ready.FBX
+- Assets/Models/car/Materials/UV07.mat
+- Assets/Models/car/car06.fbm/car_06a.png
+- Assets/Models/car/Materials/08.mat
+- Assets/Models/car/Materials/car_06.mat
+- Assets/Models/car/carAnimatorControl.controller
+- Assets/Models/car/car03.fbm/car_03.png
+- Assets/Models/car/Materials/car_02.mat
+- Assets/Models/car/scene.fbm/UV07.png
+- Assets/Models/car/scene.fbm/UV04.png
+- Assets/Models/car/car01.fbm/car_01.png
+- Assets/Models/car/scene.fbm/UV01.png
+- Assets/Models/car/Materials/UV01.mat
+- Assets/Models/car/car05.FBX
+- Assets/Models/car/scene.FBX
+- Assets/Models/car/car06.FBX
+- Assets/Models/car/car04.fbm/car_04.png
+- Assets/Models/car/Materials/UV04.mat
+- Assets/Models/car/car05.fbm/car_05.png
+- Assets/Models/car/car03.fbm/car_03a.png
+- Assets/Models/car/car02.fbm/car_02a.png
+- Assets/Models/car/Materials/car_05.mat
+- Assets/Models/car/Materials/car_04.mat
+- Assets/Models/car/car02.FBX
+- Assets/Models/car/car01.fbm/car_01a.png
+- "Assets/Models/car/Materials/\u6807\u51C6_7.mat"
+- Assets/Models/car/scene.fbm/UV06.png
+- Assets/Models/car/Materials/UV05.mat
+- Assets/Models/car/Materials/09.mat
+Dependencies: []

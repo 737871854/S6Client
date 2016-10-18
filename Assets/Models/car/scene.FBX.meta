@@ -1,0 +1,188 @@
+fileFormatVersion: 2
+guid: eb3090bac9d05c24b83d24750888ea5c
+timeCreated: 1451572818
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Box105
+    100002: Camera01
+    100004: Camera02
+    100006: Camera02.Target
+    100008: Dummy02
+    100010: Plane01
+    100012: //RootNode
+    100014: 01
+    100016: 02
+    100018: 03
+    100020: 04
+    100022: 05
+    100024: 06
+    100026: 07
+    100028: 08
+    100030: 09
+    100032: 10
+    100034: 11
+    100036: 12
+    100038: 13
+    100040: 14
+    100042: 15
+    100044: 16
+    100046: pinmu_01
+    100048: pinmu_02
+    100050: pinmu_03
+    400000: Box105
+    400002: Camera01
+    400004: Camera02
+    400006: Camera02.Target
+    400008: Dummy02
+    400010: Plane01
+    400012: //RootNode
+    400014: 01
+    400016: 02
+    400018: 03
+    400020: 04
+    400022: 05
+    400024: 06
+    400026: 07
+    400028: 08
+    400030: 09
+    400032: 10
+    400034: 11
+    400036: 12
+    400038: 13
+    400040: 14
+    400042: 15
+    400044: 16
+    400046: pinmu_01
+    400048: pinmu_02
+    400050: pinmu_03
+    2300000: Box105
+    2300002: Plane01
+    2300004: 01
+    2300006: 02
+    2300008: 03
+    2300010: 04
+    2300012: 05
+    2300014: 06
+    2300016: 07
+    2300018: 08
+    2300020: 09
+    2300022: 10
+    2300024: 11
+    2300026: 12
+    2300028: 13
+    2300030: 14
+    2300032: 15
+    2300034: 16
+    2300036: pinmu_01
+    2300038: pinmu_02
+    2300040: pinmu_03
+    3300000: Box105
+    3300002: Plane01
+    3300004: 01
+    3300006: 02
+    3300008: 03
+    3300010: 04
+    3300012: 05
+    3300014: 06
+    3300016: 07
+    3300018: 08
+    3300020: 09
+    3300022: 10
+    3300024: 11
+    3300026: 12
+    3300028: 13
+    3300030: 14
+    3300032: 15
+    3300034: 16
+    3300036: pinmu_01
+    3300038: pinmu_02
+    3300040: pinmu_03
+    4300000: Box105
+    4300002: Plane01
+    4300004: 03
+    4300006: 02
+    4300008: 01
+    4300010: 05
+    4300012: 06
+    4300014: 04
+    4300016: 07
+    4300018: 08
+    4300020: 15
+    4300022: 16
+    4300024: 09
+    4300026: 10
+    4300028: 14
+    4300030: 13
+    4300032: 12
+    4300034: 11
+    4300036: pinmu_01
+    4300038: pinmu_02
+    4300040: pinmu_03
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: assets_models_car.assetbundle
+  assetBundleVariant: 

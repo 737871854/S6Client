@@ -1,0 +1,43 @@
+ManifestFileVersion: 0
+CRC: 2637732748
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e4f3bcef1d436403b558028658b7b092
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 00ffc586b3c4c12c72c7fed589b81235
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UI/Atlas/common/BarGreen.png
+- Assets/UI/Atlas/common/ImgBarBg01.png
+- Assets/UI/Atlas/common/ImgBloodPurple02.png
+- Assets/UI/Atlas/common/BgTips02.png
+- Assets/UI/Atlas/common/ImgFlower01.png
+- Assets/UI/Atlas/common/ImgBloodYellow01.png
+- Assets/UI/Atlas/common/ImgBarBg02.png
+- Assets/UI/Atlas/common/BgAnnounce.png
+- Assets/UI/Atlas/common/bigblood.png
+- Assets/UI/Atlas/common/ImgNeiYuan.png
+- Assets/UI/Atlas/common/BarBg01.png
+- Assets/UI/Atlas/common/ImgTips2.png
+- Assets/UI/Atlas/common/ImgTips1.png
+- Assets/UI/Atlas/common/BtnCommon04.png
+- Assets/UI/Atlas/common/2_top_mid_1.png
+- Assets/UI/Atlas/common/smallblood_bg.png
+- Assets/UI/Atlas/common/ImgTips02.png
+- Assets/UI/Atlas/common/ImgBloodYellow02.png
+- Assets/UI/Atlas/common/ImgFlower.png
+- Assets/UI/Atlas/common/BtnCommon03.png
+- Assets/UI/Atlas/common/bigblood_bg.png
+- Assets/UI/Atlas/common/BtnClose.png
+- Assets/UI/Atlas/common/BtnCommon01.png
+- Assets/UI/Atlas/common/ImgWaiYuan.png
+- Assets/UI/Atlas/common/smallblood.png
+- Assets/UI/Atlas/common/ImgBloodGreen01.png
+Dependencies: []

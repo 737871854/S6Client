@@ -1,0 +1,20 @@
+ManifestFileVersion: 0
+CRC: 1988799059
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 62e95f417c05e5abf0d0db792ec3390d
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 00ffc586b3c4c12c72c7fed589b81235
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UI/Atlas/HeroAltar/BarFull.png
+- Assets/UI/Atlas/HeroAltar/BarBg01.png
+- Assets/UI/Atlas/HeroAltar/BarGreen.png
+Dependencies: []

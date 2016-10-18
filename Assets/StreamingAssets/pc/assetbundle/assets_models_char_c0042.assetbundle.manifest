@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2548946860
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a37ab1a63e27ae3983f4d8ed117c5353
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 68402a7cba477a0807d1d8dd0920d526
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+Assets:
+- Assets/Models/char/c0042/c0042.fbm/c0042_01.png
+- Assets/Models/char/c0042/c0042@stand.FBX
+- Assets/Models/char/c0042/c0042@die.FBX
+- Assets/Models/char/c0042/c0042@attack.FBX
+- Assets/Models/char/c0042/c0042@magic.FBX
+- Assets/Models/char/c0042/c0042.FBX
+- Assets/Models/char/c0042/c0042Controller.controller
+- Assets/Models/char/c0042/c0042@run.FBX
+- Assets/Models/char/c0042/Materials/c0042_01.mat
+Dependencies: []

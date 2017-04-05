@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 3759148180
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35be9381c475123bf2be32b7399c8dfe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: dd9689adab09cfea0e9fd058a37f4355
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 1679637790, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/ui/common/MenuButton.prefab
+Dependencies:
+- F:/Sample/S6/Res/Assets/../AssetBundles/pc/assetbundle/assets_ui_atlas_common.assetbundle

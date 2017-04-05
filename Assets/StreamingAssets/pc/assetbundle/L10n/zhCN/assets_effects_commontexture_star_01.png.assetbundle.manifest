@@ -1,0 +1,16 @@
+ManifestFileVersion: 0
+CRC: 508279501
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 5f86e9c8f56652ec7df864cd27d61d03
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7c0a6a24fc909dd95208e56e2ca96f9c
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+Assets:
+- Assets/Effects/CommonTexture/star_01.png
+Dependencies: []

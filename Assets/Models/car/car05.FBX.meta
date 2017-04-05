@@ -1,0 +1,118 @@
+fileFormatVersion: 2
+guid: 3932e0f9a0f6bbc4c8aebac5c531b32c
+timeCreated: 1451572817
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: car05
+    100004: car05_Bip
+    100006: car05_bone_01
+    100008: car05_bone_02
+    100010: car05_bone_03
+    100012: car05_bone_04
+    100014: car05_bone_05
+    100016: car05_bone_06
+    100018: car05_bone_07
+    100020: car05_bone_08
+    100022: car05_bone_09
+    100024: car01_Bip
+    100026: car01_bone_01
+    100028: car01_bone_02
+    100030: car01_bone_03
+    100032: car01_bone_04
+    100034: car01_bone_05
+    100036: car01_bone_06
+    100038: car01_bone_07
+    100040: car01_bone_08
+    100042: car01_bone_09
+    400000: //RootNode
+    400002: car05
+    400004: car05_Bip
+    400006: car05_bone_01
+    400008: car05_bone_02
+    400010: car05_bone_03
+    400012: car05_bone_04
+    400014: car05_bone_05
+    400016: car05_bone_06
+    400018: car05_bone_07
+    400020: car05_bone_08
+    400022: car05_bone_09
+    400024: car01_Bip
+    400026: car01_bone_01
+    400028: car01_bone_02
+    400030: car01_bone_03
+    400032: car01_bone_04
+    400034: car01_bone_05
+    400036: car01_bone_06
+    400038: car01_bone_07
+    400040: car01_bone_08
+    400042: car01_bone_09
+    4300000: car05
+    9500000: //RootNode
+    13700000: car05
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: assets_models_car.assetbundle
+  assetBundleVariant: 

@@ -1,0 +1,52 @@
+ManifestFileVersion: 0
+CRC: 3441476485
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 97b63f5517b5a81c20d9ac461fdc6eef
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4b0599926a1bc0bec29e976fa976baff
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: fea7b13af3077854db9d7d5ea70ad5f6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/temp/map.prefab
+Dependencies:
+- F:/Sample/S6/Res/Assets/../AssetBundles/pc/assetbundle/assets_scenes_common.assetbundle
+- F:/Sample/S6/Res/Assets/../AssetBundles/pc/assetbundle/assets_toolscripts_shaders.assetbundle
+- F:/Sample/S6/Res/Assets/../AssetBundles/pc/assetbundle/assets_effects_commontexture_materials_star_01_ad.mat.assetbundle
+- F:/Sample/S6/Res/Assets/../AssetBundles/pc/assetbundle/assets_effects_commontexture_materials_light_01_ad.mat.assetbundle
+- F:/Sample/S6/Res/Assets/../AssetBundles/pc/assetbundle/assets_effects_commontexture_materials_huo_01_3x4_ad.mat.assetbundle
+- F:/Sample/S6/Res/Assets/../AssetBundles/pc/assetbundle/assets_effects_commontexture_materials_pubu_01_ad.mat.assetbundle

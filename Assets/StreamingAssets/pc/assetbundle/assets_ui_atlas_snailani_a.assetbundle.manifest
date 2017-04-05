@@ -1,0 +1,35 @@
+ManifestFileVersion: 0
+CRC: 2587378316
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: d526dd6819c3895f92269d177a5d8c1c
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 00ffc586b3c4c12c72c7fed589b81235
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UI/Atlas/snailAni/a/a0010.png
+- Assets/UI/Atlas/snailAni/a/a0025.png
+- Assets/UI/Atlas/snailAni/a/a0065.png
+- Assets/UI/Atlas/snailAni/a/a0020.png
+- Assets/UI/Atlas/snailAni/a/a0050.png
+- Assets/UI/Atlas/snailAni/a/a0000.png
+- Assets/UI/Atlas/snailAni/a/a0075.png
+- Assets/UI/Atlas/snailAni/a/a0040.png
+- Assets/UI/Atlas/snailAni/a/a0070.png
+- Assets/UI/Atlas/snailAni/a/a0015.png
+- Assets/UI/Atlas/snailAni/a/a0005.png
+- Assets/UI/Atlas/snailAni/a/a0055.png
+- Assets/UI/Atlas/snailAni/a/a0085.png
+- Assets/UI/Atlas/snailAni/a/a0030.png
+- Assets/UI/Atlas/snailAni/a/a0060.png
+- Assets/UI/Atlas/snailAni/a/a0045.png
+- Assets/UI/Atlas/snailAni/a/a0080.png
+- Assets/UI/Atlas/snailAni/a/a0035.png
+Dependencies: []

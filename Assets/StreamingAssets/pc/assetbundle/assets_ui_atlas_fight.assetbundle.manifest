@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2233707214
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b7fc5a64d38f05065b7366973476eec0
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 00ffc586b3c4c12c72c7fed589b81235
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/UI/Atlas/fight/ImgBox.png
+- Assets/UI/Atlas/fight/BgRes.png
+- Assets/UI/Atlas/fight/Bg02.png
+- Assets/UI/Atlas/fight/ImgBg06.png
+Dependencies: []
